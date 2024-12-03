@@ -129,9 +129,9 @@ Desenvolvi a página de cadastro do Dashboard no Frontend (utilizando React) e a
 - **React e TypeScript:** Profundidade no desenvolvimento de aplicações frontend escaláveis e modulares.  
 - **Banco de Dados MySQL:** Processamento de grandes volumes de dados e implementação de filtros avançados.  
 
-**Soft Skills Desenvolvidas:**  
+**Soft Skills Desenvolvidas:**
 
-Tivemos a Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG) como parceira deste projeto. Durante o processo de desenvolvimento, houve problemas relacionados à gestão de processos e de pessoas e isso acarretou na saída e na entrada de novos integrantes em minha equipe. Com isso, tive uma melhora nas minhas habilidades de integração e de acolhimento, além de desenvolver um senso maior de responsabilidade e respeito aos procedimentos da metologia ágil.
+A integração de novos integrantes ao projeto trouxe valiosas oportunidades para aprimorar minhas habilidades de comunicação e colaboração em equipe. Fortaleci meu senso de responsabilidade, demonstrando maior comprometimento com as entregas e os prazos. Além disso, desenvolvi ainda mais minha capacidade de resolver problemas complexos com agilidade e eficiência, contribuindo diretamente para os resultados do projeto.
 
 **Tecnologias Utilizadas:**
 
