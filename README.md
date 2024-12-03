@@ -31,25 +31,26 @@ Atualmente, sou aluno da Fatec - Prof. Jessen Vidal, onde estou cursando o terce
   <img width="80%" alt="Logo do Criança Renal" src="https://github.com/user-attachments/assets/242000ee-af9d-491e-bb1e-36db564c9848" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>
 </p>
 
-**Descrição:**  
+**Descrição:**
+
 Projeto que visa conscientizar e apoiar famílias de crianças que sofrem com a doença renal crônica. Possui um FAQ (Perguntas mais frequentes) com informações úteis como sintomas e locais de tratamento. Há também um sistema de blog com postagens aprovadas por administradores e segurança reforçada por níveis de acesso, com login de administrador e de usuário.
 
-**Contribuições Pessoais:**  
-- Desenvolvimento do sistema completo de login e cadastro para diferentes tipos de usuários.
-- Implementação do blog com suporte para postagens e comentários.  
-- Desenvolvimento do FAQ.
+**Contribuições Pessoais:**
 
-**Hard Skills Desenvolvidas:**  
+Auxiliado por alguns membros da equipe de desenvolvimento, fiz o sistema completo de login e cadastro para adminitradores e usuários comuns. Implementei o blog, que serve como um canal de comunicação entre usuários, com suporte para postagens e comentários, além da aprovação de postagens pelos administradores. Participei também do desenvolvimento da página de FAQ (Perguntas Mais Frequentes).
+
+**Hard Skills Desenvolvidas:**
+
 - **Python e Flask:** Primeiros passos no desenvolvimento de APIs seguras e eficientes.  
 - **HTML e CSS:** Desenvolvimento de páginas responsivas e acessíveis.  
 - **MySQL:** Modelagem e implementação de tabelas para login e gerenciamento de conteúdos.  
 
 **Soft Skills Desenvolvidas:**  
-- **Trabalho em equipe:** Primeira experiência com a metodologia Scrum, entendendo a importância de papéis e cerimônias (Daily, Planning, Review e Retrospectiva).  
-- **Proatividade:** Identificação de tarefas prioritárias e entrega de melhorias para os processos da equipe.  
-- **Organização:** Gerenciamento de tarefas individuais e colaboração em grupo para alcançar as metas do sprint.  
+
+Embora não fosse um projeto muito difícil, essa foi a minha primeira experiência com a metodologia Scrum e comecei a entender sobre papéis e cerimônias, como Scrum Master e PO, Product Backlog, planejamento de Sprints, entre outros. Além disso, era um projeto de extrema sensibilidade, tendo em vista que afetava famílias com filhos que sofriam de doença renal crônica. Tive de me adaptar a uma nova forma de trabalhar, mas consegui aprimorar a minha proatividade (identificando tarefas prioritárias e entregando melhorias nos processos da equipe) e a minha organização (gerenciando as minhas tarefas individuais e trabalhando com o grupo para alcançar as metas de cada Sprint).
 
 **Tecnologias Utilizadas:**
+
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-3ad6b2?style=for-the-badge&logo=figma&logoColor=c41f1f&color=00046D"></a>
   <a href= "https://slack.com/intl/pt-br"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&color=00046D"></a>
@@ -71,25 +72,26 @@ Projeto que visa conscientizar e apoiar famílias de crianças que sofrem com a 
   <img width="80%" alt="Logo do Projeto HelpDesk" src="https://github.com/user-attachments/assets/22ec5e0a-1bff-45e3-aad8-23b083b62ea7" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>
 </p>
 
-**Descrição:**  
+**Descrição:**
+
 Aplicação de atendimento ao cliente para o ramo de entregas, com funcionalidades como o registro de chamados com categorias e interação por chat em tempo real, uso de diferentes níveis de acesso (cliente, atendente e administrador), gerenciamento de usuários e monitoramento das interações, entre outros.
 
-**Contribuições Pessoais:**  
-- Criação do FAQ do projeto.
-- Criação do sistema de Categorias de chamado.
-- Auxílio na implementação do Dashboard.
+**Contribuições Pessoais:**
 
-**Hard Skills Desenvolvidas:**  
+Criei o FAQ (Perguntas mais Frequentes) do projeto, onde o administrador cadastrava os "tickets" com conteúdo e tipo de frequência e, depois de criados, os tikects apareciam na página do FAQ. Auxiliei na criação de categorias de chamado (no projeto, chamados eram criados pelos usuários para que os atendentes pudessem visualizá-los, abrí-los e então pudessem conversar com o usuário para resolver a solicitação). Auxiliei também na implementação do Dashboard, que exibia graficamente informações sobre chamados abertos e fechados, chamados por categoria, entre outros.
+
+**Hard Skills Desenvolvidas:**
+
 - **React e TypeScript:** Introdução ao desenvolvimento de interfaces dinâmicas e interativas.  
 - **TypeORM e MySQL:** Consolidação de conhecimentos em banco de dados relacional e integração ao backend.  
 - **Node.js:** Estruturação de APIs RESTful para suporte ao frontend.  
 
-**Soft Skills Desenvolvidas:**  
-- **Planejamento:** Aprendizado sobre a definição de MVP (Mínimo Produto Viável) e como isso influencia o foco no desenvolvimento.  
-- **Colaboração:** Participação em reuniões de equipe, revisões de sprint e apresentações dos resultados ao time e parceiros.  
-- **Comunicação:** Articulação clara de ideias e feedbacks durante o ciclo de desenvolvimento.  
+**Soft Skills Desenvolvidas:**
+
+Aprendi outros conceitos sobre o processo de desenvolvimento, como o que é MVP (Mínimo Produto Viável), o que auxiliou na minha melhora a respeito do que é planejamento e de como isso influenvia o foco da implementação. Além disso, eu aprendi a fazer Daily Scrum e Sprint Reviews, e isso desenvolveu mais a minha comunicação, dando feedbacks durante o ciclo de desenvolvimento.
 
 **Tecnologias Utilizadas:**
+
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-3ad6b2?style=for-the-badge&logo=figma&logoColor=c41f1f&color=00046D"></a>
   <a href="https://notion.com"><img src="https://img.shields.io/badge/Notion-4a1fa8?style=for-the-badge&logo=notion&logoColor=white&color=00046D"></a>
@@ -113,25 +115,26 @@ Aplicação de atendimento ao cliente para o ramo de entregas, com funcionalidad
   <img width="80%" alt="Logo do Projeto" src="https://raw.githubusercontent.com/Code-Nine-FTC/API-2024.2-Front-End/d6520c1029777af72f432e6a6fe90873deb45936/src/assets/logo-fapg.svg" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>
 </p>
 
-**Descrição:**  
-O projeto aprimora o portal da transparência existente, trazendo funcionalidades como o gerenciamento de projetos, parceiros, bolsistas e convênios, o registro de auditorias e prestação de contas e estatísticas baseadas nos dados cadastrados e acessos divididos entre usuários comuns e administradores.
+**Descrição:**
 
-**Contribuições Pessoais:**  
-- Desenvolvimento do Dashboard.
-- Implementação de CRUDs e filtros no Backend para projetos, documentos, entre outros.
-- Auxilio na raspagem de dados e seu envio ao Backend.
+O projeto aprimora o portal da transparência já existente, trazendo funcionalidades como o gerenciamento de projetos, parceiros, bolsistas e convênios, o registro de auditorias e prestação de contas e estatísticas baseadas nos dados cadastrados e acessos divididos entre usuários comuns e administradores.
 
-**Hard Skills Desenvolvidas:**  
+**Contribuições Pessoais:**
+
+Desenvolvi a página de cadastro do Dashboard no Frontend (utilizando React) e as funções de pesquisa e filtro do Dashboard no Backend (utilizando Java e Spring). Auxiliei na raspagem de dados providenciados pelo parceiro. Implementei requisições API Restful e funções CRUDs e filtros no Backend para os projetos, os documentos, entre outros.
+
+**Hard Skills Desenvolvidas:**
+
 - **Java e Spring Boot:** Aprendizado e aplicação no desenvolvimento de APIs robustas e organizadas.  
 - **React e TypeScript:** Profundidade no desenvolvimento de aplicações frontend escaláveis e modulares.  
 - **Banco de Dados MySQL:** Processamento de grandes volumes de dados e implementação de filtros avançados.  
 
 **Soft Skills Desenvolvidas:**  
-- **Mediação de conflitos:** Resolução de problemas entre membros da equipe durante decisões técnicas.  
-- **Relacionamento com clientes:** Participação em reuniões para alinhar expectativas e requisitos.  
-- **Gestão de processos:** Organização do fluxo de trabalho e integração com equipes externas.  
+
+Tivemos a Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG) como parceira deste projeto. Durante o processo de desenvolvimento, houve problemas relacionados à gestão de processos e de pessoas e isso acarretou na saída e na entrada de novos integrantes em minha equipe. Com isso, tive uma melhora nas minhas habilidades de integração e de acolhimento, além de desenvolver um senso maior de responsabilidade e respeito aos procedimentos da metologia ágil.
 
 **Tecnologias Utilizadas:**
+
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-3ad6b2?style=for-the-badge&logo=figma&logoColor=c41f1f&color=00046D"></a>
   <a href="https://www.atlassian.com/br/software/jira/"><img src="https://img.shields.io/badge/Jira-4a1fa8?style=for-the-badge&logo=jira&logoColor=white&color=00046D"></a>
@@ -156,7 +159,9 @@ O projeto aprimora o portal da transparência existente, trazendo funcionalidade
   <b>React:</b> ⭐⭐⭐☆☆<br>
   <b>TypeScript:</b> ⭐⭐⭐☆☆<br>
   <b>Flask:</b> ⭐⭐⭐⭐☆<br>
+  <b>Python:</b> ⭐⭐⭐⭐☆<br>
   <b>CSS:</b> ⭐⭐⭐⭐☆<br>
+  <b>HTML:</b> ⭐⭐⭐⭐☆<br>
   <b>Banco de Dados Relacional (MySQL):</b> ⭐⭐⭐⭐☆<br>
 </p>
 
@@ -165,7 +170,8 @@ O projeto aprimora o portal da transparência existente, trazendo funcionalidade
   <b>Trabalho em equipe:</b> ⭐⭐⭐⭐☆<br>
   <b>Proatividade:</b> ⭐⭐⭐⭐☆<br>
   <b>Comunicação:</b> ⭐⭐⭐⭐☆<br>
-  <b>Colaboracao:</b> ⭐⭐⭐☆☆<br>
+  <b>Colaboração:</b> ⭐⭐⭐☆☆<br>
+  <b>Planejamento:</b> ⭐⭐⭐☆☆<br>
 </p>  
 
 ---
