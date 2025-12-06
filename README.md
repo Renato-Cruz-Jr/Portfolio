@@ -2,10 +2,10 @@
 <h3 align="center">Desenvolvedor Full Stack | Scrum Master</h3>
 
 <p align="center">
-  <img src="https://img. shields.io/badge/Python-3776AB? style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields. io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-20232A? style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img. shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Scrum-0052CC?style=flat&logo=jirasoftware&logoColor=white" alt="Scrum"/>
 </p>
 
@@ -96,7 +96,7 @@ Experiência prática em **desenvolvimento Full Stack** (Python, Java, React) e 
 
 <p align="center">
   <a href="https://github.com/Code-Nine-FTC/API-2024.2">
-    <img src="https://img. shields.io/badge/Ver_Repositório-181717? style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+    <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
   </a>
 </p>
 
@@ -106,7 +106,7 @@ Experiência prática em **desenvolvimento Full Stack** (Python, Java, React) e 
 **Parceiro:** Fatec | **Atuação:** Desenvolvedor Full Stack
 
 <div align="center">
-  <img width="80%" alt="Logo HelpDesk" src="https://github. com/user-attachments/assets/22ec5e0a-1bff-45e3-aad8-23b083b62ea7"/>
+  <img width="80%" alt="Logo HelpDesk" src="https://github.com/user-attachments/assets/22ec5e0a-1bff-45e3-aad8-23b083b62ea7"/>
 </div>
 
 > Service Desk com abertura de chamados, categorização automática e chat em tempo real. 
@@ -143,7 +143,7 @@ Experiência prática em **desenvolvimento Full Stack** (Python, Java, React) e 
 
 <p align="center">
   <a href="https://github.com/Code-Nine-FTC/Grupo-Code-Nine">
-    <img src="https://img. shields.io/badge/Ver_Repositório-181717? style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+    <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
   </a>
 </p>
 
@@ -164,11 +164,11 @@ Experiência prática em **desenvolvimento Full Stack** (Python, Java, React) e 
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:renato. cruzjr@outlook.com">
+  <a href="mailto:renato.cruzjr@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www. linkedin.com/in/renato-fernandes-da-cruz-junior-798582204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/renato-fernandes-da-cruz-junior-798582204/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Renato-Cruz-Jr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
